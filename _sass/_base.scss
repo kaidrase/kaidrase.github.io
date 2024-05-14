@@ -6,7 +6,12 @@
   box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;800&family=Roboto:wght@100&display=swap');
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
+	font-weight: normal;
+	font-style: normal;
+}
 
 body {
   margin: 0;
