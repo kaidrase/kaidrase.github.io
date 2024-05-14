@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 폰트 테스트
+title: 컨퍼런스 정보
 ---
 
+![poster](../_attachments/logo_agilehaja.png)
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
 -----
