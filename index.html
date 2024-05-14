@@ -11,9 +11,9 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    <!-- kichang.hong 포스트 날짜 표시 삭제
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
+    -->
     {{ post.content }}
   </article>
   {% endfor %}
