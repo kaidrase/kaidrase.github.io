@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: KB애자일 하자CON
+tagline: 우리도 애자일에 진심입니다.
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: KB국민은행 아키텍처부(P) 애자일빌드팀
   url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  email: kichang.hong@kbfg.com
 
 # Custom vars
 version: 3.0.0
